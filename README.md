@@ -1,5 +1,5 @@
 # A data analysis using python
 
-After finishing comment this, as an 'Abstract'
+When we finish the project we must write an 'abstract' here
 
 Kaggle: https://www.kaggle.com/dronio/SolarEnergy
